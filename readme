@@ -1,0 +1,20 @@
+This is my Baccarat Project
+Goal of this project is to make a Bacarrat game with a Gui and teach a bot how to play
+
+Step one make a fully functional baccarat game
+To understand how the game works
+make all logical functions, betting, deck of cards, dealer, win conditions, etc
+make a gui for the game
+
+create a web gui
+
+stick it in a docker container
+
+make a bot that plays the game endlessly
+
+track its results
+
+Train the AI to play the game
+
+useful links
+https://code.tutsplus.com/how-to-build-a-python-bot-that-can-play-web-games--active-11117t
